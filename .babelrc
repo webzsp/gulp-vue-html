@@ -1,0 +1,3 @@
+{
+    "plugins": [["@babel/plugin-transform-strict-mode",{"strictMode":false}],"transform-remove-strict-mode"]
+  }

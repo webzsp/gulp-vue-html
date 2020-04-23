@@ -1,0 +1,24 @@
+{
+  "name": "transformvue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/plugin-transform-strict-mode": "^7.8.3",
+    "@babel/preset-env": "^7.9.5",
+    "babel-plugin-transform-remove-strict-mode": "0.0.2",
+    "cheerio": "^1.0.0-rc.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-remove-use-strict": "^1.0.0",
+    "through2": "^3.0.1",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
